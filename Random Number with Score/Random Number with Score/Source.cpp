@@ -16,9 +16,9 @@ int main()
 	//initialize random seed
 	srand(time(NULL));
 	//generate secret number between 1 and 10
-	secret = rand() % 100 + 1;
+	secret = rand() % 10 + 1;
 	do{
-		std::cout << "Please pick a number between 1-100 \n >";
+		std::cout << "Please pick a number between 1-10 \n >";
 		std::cin >> numChoice;
 
 		if (numChoice > secret)
