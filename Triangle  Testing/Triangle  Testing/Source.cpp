@@ -139,8 +139,8 @@ void isoscelesTriangle()
 
 		std::cout << "What is the distance for side C. \n >";
 		std::cin >> sideC;
-		//(b^2 = a^2 + c^2)2
-		sideB = (sqrt((sideA * sideA) + (sideC * sideC)))/2;
+		//(sqrt((sideA * sideA) + (sideC * sideC)))/2
+		sideB = 1;
 		area = (sideA * sideB) / 2;
 		perimeter = 2 * sideA + sideB;
 		std::cout << "The distance for side B is " << sideB << "\nThe area of the triangle is " << area << "\nThe perimeter of the triangle is " << perimeter << std::endl;
