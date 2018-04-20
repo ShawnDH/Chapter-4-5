@@ -1,4 +1,4 @@
-/*Guessing Game
+/*Rock, Paper, Scissors
 04/10/2018
 Author:ShawnD Herrick */
 
@@ -72,7 +72,7 @@ int main()
 		}
 		std::cout << "Would you like to play again? \n >";
 		std::cin >> cntinue;
-	} while (cntinue != "No");
+	} while (cntinue != "No" || cntinue != "nO" || cntinue != "NO" || cntinue != "no");
 		system("pause");
 		return 0;
 }
