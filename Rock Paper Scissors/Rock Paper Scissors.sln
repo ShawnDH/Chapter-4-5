@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caesar Ciphar", "Caesar Ciphar\Caesar Ciphar.vcxproj", "{0D2274B5-D26D-46D1-9784-FB72EAE309DA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rock Paper Scissors", "Rock Paper Scissors\Rock Paper Scissors.vcxproj", "{745EB2D4-9E5A-4821-858D-0C778796FF5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0D2274B5-D26D-46D1-9784-FB72EAE309DA}.Debug|Win32.ActiveCfg = Debug|Win32
-		{0D2274B5-D26D-46D1-9784-FB72EAE309DA}.Debug|Win32.Build.0 = Debug|Win32
-		{0D2274B5-D26D-46D1-9784-FB72EAE309DA}.Release|Win32.ActiveCfg = Release|Win32
-		{0D2274B5-D26D-46D1-9784-FB72EAE309DA}.Release|Win32.Build.0 = Release|Win32
+		{745EB2D4-9E5A-4821-858D-0C778796FF5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{745EB2D4-9E5A-4821-858D-0C778796FF5B}.Debug|Win32.Build.0 = Debug|Win32
+		{745EB2D4-9E5A-4821-858D-0C778796FF5B}.Release|Win32.ActiveCfg = Release|Win32
+		{745EB2D4-9E5A-4821-858D-0C778796FF5B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

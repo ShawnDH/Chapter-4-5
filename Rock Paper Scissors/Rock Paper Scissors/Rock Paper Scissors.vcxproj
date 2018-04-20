@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0D2274B5-D26D-46D1-9784-FB72EAE309DA}</ProjectGuid>
+    <ProjectGuid>{745EB2D4-9E5A-4821-858D-0C778796FF5B}</ProjectGuid>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
-    <RootNamespace>CaesarCiphar</RootNamespace>
+    <RootNamespace>RockPaperScissors</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
