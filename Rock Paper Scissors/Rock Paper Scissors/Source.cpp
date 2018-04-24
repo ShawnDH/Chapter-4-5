@@ -80,11 +80,11 @@ int main()
 			std::cout << "ERROR!!! '" << userChoice << "' is not a valid statement. \n Please try again." << std::endl;				
 			main();
 		}
-		//std::cout << "\n+====ScoreBoard====+" << std::endl;
-		//std::cout << " Your Wins ----- " << userWins << std::endl;
-		//std::cout << " AI Wins ------- " << aiWins << std::endl;
-		//std::cout << " Ties ---------- " << ties << std::endl;
-		//std::cout << "+==================+" << std::endl;
+		std::cout << "\n+====ScoreBoard====+" << std::endl;
+		std::cout << " Your Wins ----- " << userWins << std::endl;
+		std::cout << " AI Wins ------- " << aiWins << std::endl;
+		std::cout << " Ties ---------- " << ties << std::endl;
+		std::cout << "+==================+" << std::endl;
 		std::cout << "\nWould you like to play again? \n >";
 		std::cin >> cntinue;
 	} while (cntinue != "No" || cntinue != "nO" || cntinue != "NO" || cntinue != "no");
